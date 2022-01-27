@@ -1,152 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://thyao.github.io/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/uploads/TsungHungYao_CV_ver1.pdf</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/tsung-hung-yao/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/zhenke-wu/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/karthik-bharath/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/jinju-li/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/veerabhadran-baladandayuthapan/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/publication/rxtree/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/publication/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/megan-lane/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/graham-c.-ives/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/emily-c.-sluiter/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/jennifer-f.-waljee/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/hsou-mei-hu/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/william-m.-kuzon/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/publication/transgender_ncrc/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/privacy/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/terms/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/post/getting-started/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/post/jupyter/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/tag/bayesian-nonparametrics/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/tag/patient-derived-xenografts/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/tag/collaborative/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/category/demo/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/tag/academic/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://thyao.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-  <lastmod>2022-01-27T01:07:12+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  
+  <url>
+    <loc>https://THYao.github.io/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/publication-type/3/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/authors/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/bayesian-nonparametrics/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/jinju-li/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/karthik-bharath/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/patient-derived-xenografts/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/publication/rxtree/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/publication_types/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/publication/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tags/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/tsung-hung-yao/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/veerabhadran-baladandayuthapan/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/zhenke-wu/</loc><lastmod>2022-01-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/post/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/privacy/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/terms/</loc><lastmod>2018-06-28T00:00:00+01:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/publication-type/2/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/collaborative/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/emily-c.-sluiter/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/graham-c.-ives/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/hsou-mei-hu/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/jennifer-f.-waljee/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/megan-lane/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/publication/transgender_ncrc/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/author/william-m.-kuzon/</loc><lastmod>2018-04-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/tag/demo/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://THYao.github.io/admin/</loc></url></urlset>
