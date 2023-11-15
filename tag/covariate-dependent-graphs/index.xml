@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covariate-dependent Graphs | Tsung-Hung Yao</title>
+    <link>https://example.com/tag/covariate-dependent-graphs/</link>
+      <atom:link href="https://example.com/tag/covariate-dependent-graphs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Covariate-dependent Graphs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Covariate-dependent Graphs</title>
+      <link>https://example.com/tag/covariate-dependent-graphs/</link>
+    </image>
+    
+    <item>
+      <title>Robust Bayesian Graphical Regression Models for Assessing Tumor Heterogeneity in Proteomic Networks</title>
+      <link>https://example.com/publication/rbgr/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rbgr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
