@@ -5,12 +5,44 @@
     <link>https://example.com/tag/collaborative-research/</link>
       <atom:link href="https://example.com/tag/collaborative-research/index.xml" rel="self" type="application/rss+xml" />
     <description>Collaborative Research</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Collaborative Research</title>
       <link>https://example.com/tag/collaborative-research/</link>
     </image>
+    
+    <item>
+      <title>Exploring CSF MicroRNA Signatures as Diagnostic Biomarkers in Adult-type Diffuse Gliomas</title>
+      <link>https://example.com/publication/mirbiomarker_gbm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mirbiomarker_gbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Integrative Prediction of Pancreatic Cancer</title>
+      <link>https://example.com/publication/earlypdac_multimodal/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/earlypdac_multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Prediction in Cancer Imaging Using Enriched Radiomics Features</title>
+      <link>https://example.com/publication/liverepm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liverepm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estrogen prescriptions after pelvic radiation for women with early-onset rectal cancer</title>
+      <link>https://example.com/publication/estrogen_rectalcancer/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/estrogen_rectalcancer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Trends in Gender-affirming Surgery in Insured Patients in the United States</title>

@@ -33,10 +33,58 @@
     </item>
     
     <item>
+      <title>Bayesian Nonparametric Global-local Clustering of High-dimensional Functions</title>
+      <link>https://example.com/publication/fpdpm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fpdpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring CSF MicroRNA Signatures as Diagnostic Biomarkers in Adult-type Diffuse Gliomas</title>
+      <link>https://example.com/publication/mirbiomarker_gbm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mirbiomarker_gbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry-driven Bayesian Inference for Ultrametric Covariance Matrices</title>
+      <link>https://example.com/publication/ultramat/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ultramat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Integrative Prediction of Pancreatic Cancer</title>
+      <link>https://example.com/publication/earlypdac_multimodal/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/earlypdac_multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Prediction in Cancer Imaging Using Enriched Radiomics Features</title>
+      <link>https://example.com/publication/liverepm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liverepm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Robust Bayesian Graphical Regression Models for Assessing Tumor Heterogeneity in Proteomic Networks</title>
       <link>https://example.com/publication/rbgr/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/rbgr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estrogen prescriptions after pelvic radiation for women with early-onset rectal cancer</title>
+      <link>https://example.com/publication/estrogen_rectalcancer/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/estrogen_rectalcancer/</guid>
       <description></description>
     </item>
     
@@ -320,7 +368,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-139826547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-731469528&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -330,7 +378,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-139826547&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-731469528&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

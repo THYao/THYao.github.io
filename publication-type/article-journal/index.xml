@@ -5,12 +5,36 @@
     <link>https://example.com/publication-type/article-journal/</link>
       <atom:link href="https://example.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>article-journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>article-journal</title>
       <link>https://example.com/publication-type/article-journal/</link>
     </image>
+    
+    <item>
+      <title>Multimodal Integrative Prediction of Pancreatic Cancer</title>
+      <link>https://example.com/publication/earlypdac_multimodal/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/earlypdac_multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Prediction in Cancer Imaging Using Enriched Radiomics Features</title>
+      <link>https://example.com/publication/liverepm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/liverepm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Bayesian Graphical Regression Models for Assessing Tumor Heterogeneity in Proteomic Networks</title>
+      <link>https://example.com/publication/rbgr/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/rbgr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Probabilistic Learning of Treatment Trees in Cancer</title>

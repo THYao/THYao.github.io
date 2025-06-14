@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/article/</link>
       <atom:link href="https://example.com/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>article</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>Robust Bayesian Graphical Regression Models for Assessing Tumor Heterogeneity in Proteomic Networks</title>
-      <link>https://example.com/publication/rbgr/</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/rbgr/</guid>
+      <title>Bayesian Nonparametric Global-local Clustering of High-dimensional Functions</title>
+      <link>https://example.com/publication/fpdpm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/fpdpm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring CSF MicroRNA Signatures as Diagnostic Biomarkers in Adult-type Diffuse Gliomas</title>
+      <link>https://example.com/publication/mirbiomarker_gbm/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mirbiomarker_gbm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry-driven Bayesian Inference for Ultrametric Covariance Matrices</title>
+      <link>https://example.com/publication/ultramat/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ultramat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estrogen prescriptions after pelvic radiation for women with early-onset rectal cancer</title>
+      <link>https://example.com/publication/estrogen_rectalcancer/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/estrogen_rectalcancer/</guid>
       <description></description>
     </item>
     

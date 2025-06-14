@@ -11,39 +11,103 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication-type/article/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/bayesian-graphical-models/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication-type/article-journal/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/cancer/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/fpdpm/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/conditional-sign-independence/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/tag/collaborative-research/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/covariate-dependent-graphs/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/mirbiomarker_gbm/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/functional-data-clustering/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/ultramat/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/markovian-fragmentation/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/earlypdac_multimodal/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/posterior-consistency/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/product-of-dirichlet-process-mixtures/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/rbgr/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/publication/liverepm/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/spatial-transcriptomics/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2023-12-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/tree-space/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/tree-structured-covriances/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/ultrametric-matrices/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/bayesian-graphical-models/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/cancer/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/conditional-sign-independence/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/covariate-dependent-graphs/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/rbgr/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/estrogen_rectalcancer/</loc>
+    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/post/blog-with-jupyter/</loc>
@@ -55,10 +119,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/approximate-bayesian-computation/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication-type/article-journal/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -136,10 +196,6 @@
   </url><url>
     <loc>https://example.com/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/collaborative-research/</loc>
-    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/transgender_ncrc/</loc>
