@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title>Multimodal Integrative Prediction of Pancreatic Cancer</title>
+      <title>Machine Learning-Based Multimodal Biomarkers Enable Accurate Diagnosis and Early Detection of Pancreatic Ductal Adenocarcinoma</title>
       <link>https://example.com/publication/earlypdac_multimodal/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/earlypdac_multimodal/</guid>
@@ -368,7 +368,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-428753691&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-175394628&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -378,7 +378,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-428753691&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-175394628&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
